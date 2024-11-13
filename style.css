@@ -1,0 +1,26 @@
+body {
+    background-color: yellowgreen;
+}
+
+#button {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    height: 200px;
+    color:black;
+    background-color: aqua;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.main {
+    text-align: center;
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+    height: 100vh;
+}
+#message {
+    color:black;
+    font-weight: bold;
+}
